@@ -1,7 +1,6 @@
-🎨 TAKE A TRIP! – Real‑time Glitch Art & Datamosh
+🎨 MAKE & OWN A TOKEN ; Real‑time Glitch Art & Datamosh
 A WebGL‑powered interactive video glitch art studio that runs entirely in your browser.
 
-https://screenshot.png
 
 ✨ Features
 Real‑time WebGL effects – Datamosh, Pixel Sort, Feedback Loop, Color Shift, ASCII Art, ASCII Numbers, and more.
